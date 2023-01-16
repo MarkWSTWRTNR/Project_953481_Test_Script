@@ -66,6 +66,6 @@ WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/Give_Score_And_Add_Fav/button_Add to Favorite'))
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/Give_Score_And_Add_Fav/a_Home'))
-WebUI.delay(2)
+WebUI.delay(5)
 WebUI.closeBrowser()
 
